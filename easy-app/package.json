@@ -1,0 +1,13 @@
+{
+  "name": "easy-app",
+  "version": "1.0.0",
+  "description": "A simple easy app",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
